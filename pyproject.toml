@@ -1,7 +1,7 @@
 [project]
 name = "safety-manual"
 version = "0.1.0"
-description = "Add your description here"
+description = "Generates an HTML site for the Online Safety manual"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
